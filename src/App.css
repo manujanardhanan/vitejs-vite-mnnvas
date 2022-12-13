@@ -1,0 +1,18 @@
+.App {
+}
+
+.p-l {
+  padding-left: 30px;
+}
+
+.navbar {
+  height: 70px;
+  box-shadow: 0 3px 7px -3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.hero {
+  display: flex;
+  align-items: center;
+}
